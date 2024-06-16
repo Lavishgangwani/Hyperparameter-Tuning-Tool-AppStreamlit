@@ -31,6 +31,7 @@ You can access the tool via the following link:
 - xgboost
 - matplotlib
 - numpy
+- seaborn
 
 ### Installation
 
